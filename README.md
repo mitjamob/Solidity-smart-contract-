@@ -1,4 +1,4 @@
-# Solidity-smart-contract-
+# Solidity-smart-contract-ready to deploy /Remix 
     // SPDX-License-Identifier: MIT
 
     pragma solidity >=0.8.0 <=0.8.24;
