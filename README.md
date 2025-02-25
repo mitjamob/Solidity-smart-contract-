@@ -3,7 +3,7 @@
 
 pragma solidity >=0.8.0 <=0.8.24;
 
-contract MyToken {
+    contract MyToken {
    
     string public name = "DUBFX";
     
@@ -43,4 +43,4 @@ contract MyToken {
         emit Transfer(_from, _to, _value);
         return true;
     }
-}
+    }
