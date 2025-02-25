@@ -4,7 +4,9 @@
 pragma solidity >=0.8.0 <=0.8.24;
 
 contract MyToken {
+   
     string public name = "DUBFX";
+    
     string public symbol = "DFX";
     uint8 public decimals = 18;
     uint256 public totalSupply = 1000000 * (10 ** uint256(decimals));
